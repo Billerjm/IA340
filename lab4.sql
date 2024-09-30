@@ -8,3 +8,4 @@ where fips ='51'
 insert into income(fips,income,year) values('80',6000,2025)
 /*This does not work because there is no state fips numbered 80.*/
 
+--Q4.3
